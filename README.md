@@ -4,7 +4,7 @@ Create an billing system to easily implement the requirements.
 
 > created by Abhimanyu Verma
 
-
+APK for Android:[Click me](https://github.com/DeveloperHCR/DevX_Billing/releases/download/DevX_billing_1.3.2/DevX_Billing.apk)
 > seen by Ghanshyam Verma 
 channel promotions
 
